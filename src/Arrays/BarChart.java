@@ -13,7 +13,7 @@ public class BarChart {
                         counter * 10, counter * 10 + 9);
             }
             for (int stars = 0; ; stars++) {
-                System.out.print("*");
+                System.out.println("*");
             }
         }System.out.println();
     }
