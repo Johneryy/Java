@@ -9,7 +9,7 @@ public class MyZenithBankApp {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.print("WELCOME TO ZENITHBANK");
+        System.out.println("WELCOME TO ZENITHBANK");
         int sentinel = 0;
 
         try {
